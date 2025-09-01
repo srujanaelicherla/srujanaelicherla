@@ -1,6 +1,6 @@
 ![Profile views](https://komarev.com/ghpvc/?username=srujanaelicherla&color=blue)
 
-# Hi there 👋, I'm Srujana Elicherla
+# Hi there, I'm Srujana Elicherla
 
 A Computer Science student at M.S. Ramaiah University, passionate about building intelligent systems through a strong foundation in Data Structures and Algorithms. My goal is to bridge theoretical knowledge with practical, impactful AI projects.
 
@@ -24,4 +24,4 @@ A Computer Science student at M.S. Ramaiah University, passionate about building
 
 Let's build something great together! 
 <br>
-Find me on **[LinkedIn](https://www.linkedin.com/in/srujanaelicherla/)** or at my email: **srujana.elicherla@gmail.com**.
+✉️ Find me on **[LinkedIn](https://www.linkedin.com/in/srujanaelicherla/)** or at my email: **srujana.elicherla@gmail.com**.
