@@ -21,4 +21,4 @@ A Computer Science student at M.S. Ramaiah University, passionate about building
 ### Reach Out
 
 Let's build something great together! 
-Find me on **[[Your LinkedIn Profile Link]](https://www.linkedin.com/in/srujanaelicherla/)** or at my email: **srujana.elicherla@gmail.com**.
+Find me on **[[LinkedIn]](https://www.linkedin.com/in/srujanaelicherla/)** or at my email: **srujana.elicherla@gmail.com**.
