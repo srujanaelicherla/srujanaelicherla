@@ -1,6 +1,6 @@
 # Hi there, I'm Srujana Elicherla
 
-A Computer Science student at M.S. Ramaiah University, passionate about building intelligent systems through a strong foundation in Data Structures and Algorithms. My goal is to bridge theoretical knowledge with practical, impactful AI projects.
+A Computer Science student at M.S. Ramaiah University, passionate about building intelligent systems through a strong foundation in Data Structures and Algorithms. My goal is to bridge theoretical knowledge with practical, impactful AI projects. 
 
 ---
 
